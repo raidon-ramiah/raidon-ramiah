@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi
+  - I’m currently working on a message board/ forum type of website. This uses authentication and allows people to add/edit/delete their own posts, or comments under posts
+  - I'm trying to learn new technologies and deepen my understanding of the tech I'm already familiar with
+  - Theres a few projects I'm collaborating with people on, updates coming soon!!!
 
 <!--
 **raidon-ramiah/raidon-ramiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
